@@ -1,3 +1,4 @@
-let nome = prompt(`Informe o seu nome:`); // solicita informações
+
+let teste = "Jose";
 
 alert(`Bem vindo ${nome}`); // mostra uma informação
